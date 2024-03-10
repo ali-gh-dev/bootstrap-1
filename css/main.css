@@ -12,3 +12,16 @@
 body {
     font-family: "Vazir" !important;
 }
+
+.cards-section {
+    background: #f1f2f2 !important;
+}
+
+.icon {
+    font-size: 2rem;
+    color: rgb(13, 110, 253);
+    padding: 15px;
+    border-radius: 15px;
+    background: #ebeafb;
+    display: inline-flex;
+}
