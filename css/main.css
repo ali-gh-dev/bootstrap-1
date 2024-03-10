@@ -25,3 +25,10 @@ body {
     background: #ebeafb;
     display: inline-flex;
 }
+
+.plan-is-clicked {
+    background: #1b2a4e;
+    color: white;
+    padding-top: 3.5rem !important;
+    padding-bottom: 3.5rem !important;
+}
